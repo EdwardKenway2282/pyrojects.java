@@ -8,3 +8,9 @@ Currently, this project has 3 projects, 1 one of Java and 2 of Python:-
 1) Python:-
     * GCD & LCM Calculator
     * Square & Square-root Calculator
+2) Java:-
+    * GCD & LCM Calculator
+    * Compound Interest Calculator
+    * Simple Interest Calculator
+    * Program to find if a student has passed or failed
+    * Program to find if a number is odd or even
