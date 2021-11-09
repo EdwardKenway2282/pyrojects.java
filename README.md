@@ -18,4 +18,4 @@ Currently, this project has 3 projects, 1 one of Java and 2 of Python:-
 ## Using it
 To download it, just paste the following command in your shell (make sure you have git installed on your system):-
 
-```git clone https://github.com/EdwardKenway2282/pyrojects.java/edit/main/README.md```
+```git clone https://github.com/EdwardKenway2282/pyrojects.java```
